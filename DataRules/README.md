@@ -44,7 +44,7 @@ Since the Mayor signed the Open and Protected Data Executive Order in April 2014
 In April, the City of Boston hosted its second [HubHacks hackathon](http://r20.rs6.net/tn.jsp?f=0013IUz4CkoLDM5JR18MmYfErGs0gCjQ5vAHGRl_M_gs3-cDMJFoRAC3LJSaQvcDfqmM-vzNuvvSfYX4l6AA8kIt6dlxUdNtsQFRgY-K4Cm4UIYsz5dxkm-QkWIu_jiq_Es9ihCfwhIezlwnLK-_gPrg7WTRcN3jJih_QEdibTMAwvj4nYeUcXG5Q==&c=V1nL95rugf179bpNLcFijU2QERSz8SCqiWs8vsR3IpozykbdBhYuHw==&ch=ZGKf10PNzKxji9ficpWXmhuEo0DuD_Pyb8R0LnQRVJsmLNGxg6FqlA==), where members of the public were invited to use City data and data from partners to tell the story of Boston through data visualization.
 
 
-###
+ * ----- * ----- * ----- *
 
 
 This page is maintained by  [Dazza Greenwood](http://DazzaGreenwood.com) and published by [CIVICS.com](http://CIVICS.com).
