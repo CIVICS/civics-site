@@ -16,7 +16,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="generator" content="Polymer Starter Kit" />
-  <title>Polymer Starter Kit</title>
+  <title>Legal Components</title>
   <!-- Place favicon.ico in the `app/` directory -->
 
   <!-- Chrome for Android theme color -->
@@ -177,6 +177,48 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
   </template>
 
+
+
+  <hr>
+  <h1>
+
+  It is now: WEB COMPONENTS
+
+  </h1>
+
+  <hr>
+
+  <p>Calendar for this month:</p>
+  <basic-calendar-month></basic-calendar-month>
+
+  <hr>
+
+  <div>
+    <google-chart type="column"
+      style="height: 200px; width: 300px;"
+      data="tutorial/data1.json">
+    </google-chart>
+    <google-chart type="pie"
+      style="height: 200px; width: 300px;"
+      data="tutorial/data1.json">
+    </google-chart>
+    <google-chart type="bar"
+      style="height: 200px; width: 300px;"
+      data="tutorial/data1.json">
+    </google-chart>
+  </div>
+
+  <hr>
+  <script src="http://component.kitchen/packages/sample/webcomponentsjs/webcomponents.js"></script>
+  <link rel="import" href="http://component.kitchen/packages/sample/basic-autosize-textarea/basic-autosize-textarea.html">
+
+  <basic-autosize-textarea minimumrows="2" placeholder="Type all you want here!">
+  </basic-autosize-textarea>
+
+
+  <hr>
+  <h1> end of component display </h1>
+  <hr>
   <!-- build:js scripts/app.js -->
   <script src="scripts/app.js"></script>
   <!-- endbuild-->
