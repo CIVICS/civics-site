@@ -2,7 +2,10 @@
 Open and Protected Data   
 A Framework for Municipal Policy and Practice
       
-The following press released issues earlier today by the City of Boston reflects best practice for the treatment of open and protected data at the municipal level.  Dazza Greenwood was privileged to contribute to the effort at developing this policy and fully endorses the final version as a model and exemplary best practice in public policy and data law.
+
+The following press released issues earlier today by the City of Boston reflects best practice for the treatment of open and protected data at the municipal level.  Dazza Greenwood was privileged to contribute to the effort at developing this policy and fully endorses the final version as a model and exemplary best practice in public policy and data law.   
+
+
 ---------- Forwarded message ----------     
 From: City of Boston <press.office@boston.gov>   
 Date: Thu, Jul 30, 2015 at 11:07 AM   
@@ -15,7 +18,7 @@ Subject: MAYOR WALSH ANNOUNCES OPEN AND PROTECTED DATA POLICY
 
 ## Increases transparency, accountability in City government
 
-BOSTON - Thursday, July 30, 2015 - Mayor Martin J. Walsh today released  he Open and Protected Data Policy, designed to increase transparency and accountability by opening more City data to the public. The policy fulfills a commitment made by the Mayor in his Executive Order on Open and Protected Data last year. The policy calls for City agencies to publish data sets on the City's open data portal (http://data.cityofboston.gov/) and provides guidance for protecting sensitive information, and is available for viewing here.
+BOSTON - Thursday, July 30, 2015 - Mayor Martin J. Walsh today released the Open and Protected Data Policy, designed to increase transparency and accountability by opening more City data to the public. The policy fulfills a commitment made by the Mayor in his [Executive Order on Open and Protected Data](http://www.cityofboston.gov/news/Default.aspx?id=6589) last year. The policy calls for City agencies to publish data sets on the City's open [data portal (http://data.cityofboston.gov/)](https://data.cityofboston.gov) and provides guidance for protecting sensitive information, and is available for viewing [here](https://data.cityofboston.gov/City-Services/Open-and-Protected-Data-Policy/2rjs-rb6r).
 
 > "The City's Open and Protected Data Policy builds on my commitment to openness and transparency in government," said Mayor Walsh. "This new policy will make more data available to the public, encourage business to build useful applications with City data, and increase collaboration between the City and the research community."
  
