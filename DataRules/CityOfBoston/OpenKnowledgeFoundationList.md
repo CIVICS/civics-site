@@ -2,7 +2,8 @@
 
 
 ---------- Forwarded message ----------
-From: Dazza Greenwood <xxx>   
+
+From: Dazza Greenwood <xxx>      
 Date: Tue, Jul 14, 2015 at 10:45 AM    
 Subject: Re: [MyData & Open Data] Guidelines for privacy and open data    
 To: <xxx>, "mydata-open-data@lists.okfn.org" <mydata-open-data@lists.okfn.org>, "opendatahandbook@okfn.org" <opendatahandbook@okfn.org>
