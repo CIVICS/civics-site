@@ -1,3 +1,3 @@
 # civics-site
 
-See: CIVICS.com for web display.
+Web Version of this site: http://civics.com
