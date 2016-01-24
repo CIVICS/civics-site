@@ -1,0 +1,287 @@
+
+New Method
+Common visible process
+•
+Partners aware of data being exchanged and how it might improve
+their own business processes.
+•
+Partners informed about other COV agency’s potential collaboration
+opportunities.
+•
+Eliminates duplicative efforts; works more efficiently toward shared
+goals.
+•
+Cost
+-
+sharing/reduction. Best practices shared, lessons learned
+combined.
+8
+HIPAA Requirements
+•
+E
+-
+MOU partners will need to comply with the
+most stringent authorization for data transfer,
+which is the
+UNIFORM CONSENT TO EXCHANGE
+INFORMATION
+FORM (DSS form).
+•
+The E
+-
+MOU meets requirements of the HIPAA
+Privacy Rule (45
+CFR Parts 160 and
+164) and
+Virginia Code 32.1
+-
+127.1:03.
+9
+E
+-
+MOU Interface with HITSAC/VITA
+•
+E
+-
+MOU and the Coordinating Committee looks
+to the Health Information Technology
+Standards Advisory Committee (HITSAC) and
+VITA to define new emerging exchange
+standards.
+•
+E
+-
+MOU helps build adoption of the new
+standards via communication through the
+Coordinating Committee.
+10
+How is it Organized?
+The main
+E
+-
+MOU
+includes 19 sections, defining the reusable
+framework and administration of the eHHR data
+exchange
+Key sections in
+the main E
+-
+MOU
+include:
+•
+Section 1
+Definitions
+•
+Section
+2 &
+3
+Coordinating Committee (CC) Responsibilities
+•
+Section 4
+Use
+of Data
+•
+Section 11
+Specific
+Duties of a Partner When
+Transmitting Data
+•
+Section 13
+Responsibilities
+of the Partners
+•
+Section 17
+Dispute
+Resolution Process
+11
+How is it organized? Cont’d
+In addition to the main E
+-
+MOU, 6 appendices provide specific process detail.
+These include:
+•
+Appendix 1
+Procedures for Adding a New Partner, Suspending and
+Terminating a Partner
+•
+Appendix 2
+Process to Amend the eHHR Enhanced MOU
+•
+Appendix 3
+Change Process for Data Exchange Services
+•
+Appendix 4
+Procedures for Breach Notification
+•
+Appendix 5
+Requirements for Data Exchange Services
+•
+Appendix 6
+New Partner Testing and Validation Requirements
+Appendix
+5 has two attachments which include templates to define Data
+Exchange Services. This includes:
+•
+Attachment A
+-
+Requirements for a Electronic Data Interchange (EDI)
+Service
+•
+Attachment
+B
+-
+Requirements for a Extract, Transform and Load (ETL)
+Service
+12
+How does it work?
+Agency
+identifies a potential
+data exchange collaboration
+with existing E
+-
+MOU Partners
+and applies to the CC.
+Agency conducts
+testing and submits
+testing feedback to CC.
+Agency continues
+to next round of
+testing.
+CC
+reviews UAT
+testing results.
+Agency is
+now a
+Partner.
+Production
+access
+approved.
+Partner signs
+E
+-
+MOU.
+Approved
+–
+VITA
+provides access to
+testing environments.
+CC
+reviews
+the
+agency’s
+application for
+risks.
+Approved
+Approved
+START
+CC reviews
+report.
+Failed
+–
+Return to
+agency for
+additional
+information.
+Failed
+–
+Return for
+additional
+testing.
+13
+Key Terms
+•
+Partner
+-
+an agency, that is a signatory to the E
+-
+MOU,
+desiring to share data resources
+•
+Coordinating Committee (CC)
+-
+designated partner/
+agency heads who have oversight of the E
+-
+MOU
+•
+Applicable Law
+-
+all applicable federal and state laws and
+regulations governing partner agencies
+•
+Data
+Exchange Service
+-
+software programs that allow
+secure sharing of data among approved
+Partners
+14
+Key Terms Cont’d
+•
+Data Request
+-
+a
+request for data made between
+Partners
+and
+defined by an approved E
+-
+MOU
+Specification
+•
+Data Test
+-
+data created by a Partner in accordance with the
+Validation Plan that does not contain personal information (PI)
+•
+Specifications
+-
+pursuant to the E
+-
+MOU, those technical and
+security requirements needed to enable the Partners to
+Transmit
+Data
+including, but not limited to, specific standards, services, and
+policies applicable to Data
+Transmittal
+•
+System
+-
+any Partner’s
+electronic medium
+used
+for conducting
+Data Transmittal related
+activities
+•
+Validation Plan
+-
+the framework for
+testing
+and demonstrations for
+parties seeking to become
+Partners
+15
+Additional Resources
+•
+Sharepoint
+/eHHR Systems Integration/Presentations
+E
+-
+MOU and Appendices
+–
+https://dssshare.virginia.gov/sites/eHHRProgram/OCM%
+20Site/_layouts/
+OSSSearchResults.aspx?k
+=
+emou&cs
+=This
+%20Site&u=https%3A%2F%2Fdssshare.virginia.gov%2Fsit
+es%2FeHHRProgram%2FOCM%20Site
+16
+Questions?
+17
+
+
+https://dssshare.virginia.gov/sites/eHHRProgram/OCM%20Site/_layouts/OSSSearchResults.aspx?k=emou&cs=This%20Site&u=https%3A%2F%2Fdssshare.virginia.gov%2Fsites%2FeHHRProgram%2FOCM%20Site

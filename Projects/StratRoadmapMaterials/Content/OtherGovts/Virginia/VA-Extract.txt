@@ -1,0 +1,72 @@
+Commonwealth Enterprise Information Architecture (EIA) Strategy – One Commonwealth, Well Informed
+
+In 2012-2013, Commonwealth Data Governance completed an eight-month planning process to develop an enterprise information architecture strategy. Data Governance staff drafted the strategy based on input from more than 120 data stewards and other stakeholders from across 25 executive branch agencies. A series of three stakeholder engagement sessions was facilitated by Data Governance staff from February through April 2013.
+
+	
+Vision
+
+The Commonwealth of Virginia will achieve the highest level of excellence in its enterprise approach to managing, securing, sharing, and using its information assets.
+
+Mission
+
+The Commonwealth of Virginia’s Enterprise Information Architecture (EIA) approach promotes availability of consistent, secure, high quality, timely and accessible information to enable quality service to citizens of the Commonwealth.
+
+EIA Strategy Purpose
+
+    Articulate a strategic vision for EIA aligned with business drivers and focused on achieving EIA outcomes
+    Establish measurable EIA goals and objectives designed to track progress toward the desired EIA “future state”
+    Serve as a roadmap for EIA to fully align solutions and technical infrastructure, data management, and business processes and objectives
+    Provide a strategic EIA framework that will support development of agency-level implementation plans across the commonwealth
+
+Data Governance
+
+The EIA Data Governance Domain centers on high-level data stewardship of the Commonwealth’s information architecture and assets. Data Governance represents the strategy dimension of the EIA program, with clearly defined objectives cascading from the enterprise to the Agency and program level. Key factors within the Enterprise Data Governance Domain include strategic direction, institutional arrangements, agency relationships and administrative functions necessary for aligning the Commonwealth’s EIA with the Business Architecture.
+Benchmarks
+
+    Governance driven by relationships among data stewards at the enterprise, agency and program level 
+    Central data governance organization with executive sponsorship 
+    Enterprise data strategy and well-defined policies, standards and guidelines 
+    Feedback loops in place to support continuous improvement for EIA 
+    Data governance staff, data stewards and business leaders monitor and promote strategies to enhance the value chain of information architecture and assets 
+
+
+VA Data Data Asset Management
+
+The EIA Data Asset Management Domain focuses on the development, implementation and maintenance of an enterprise-level inventory of the Commonwealth’s data assets. Data asset management features high-level metadata and related data documentation at the Secretariat, Agency and program level. The metadata inventory will be structured based on a detailed taxonomy with subject-area and information-class categorization. The inventory will be housed in a central metadata repository, with data assets mapped to adopted enterprise data standards. This asset mapping shall support gap analysis and identification of areas requiring new enterprise data standards.
+Benchmarks
+
+    Enterprise data-asset management program 
+    Metadata taxonomy, subject areas and information classes 
+    Publication and maintenance of an enterprise metadata repository 
+    Data assets mapped to enterprise data standards 
+
+
+Data Sharing
+
+The EIA Data Sharing Domain promotes the formation of a Commonwealth-wide trust framework to enable the exchange of information across organizational domains and source data systems. The trust framework will be modeled on the Federal Data Utilization and Reciprocal Support Agreement (DURSA) and consist of requisite legal agreements. The trust framework and implementing legal agreements will enforce compliance with all security, privacy, consent and authorization codified in applicable law.
+Benchmarks
+
+    Enterprise data-sharing built on a solid trust framework and legal agreements modeled on the Federal DURSA 
+    Security, privacy, consent and authorization addressed based on applicable law 
+    Commonwealth interoperability with other states and national information exchanges 
+
+Information relating to the Commonwealth’s move toward enterprise data sharing can be found under the Secretarial Committee on Data Sharing.
+
+Data Standards
+
+The EIA Data Standards Domain focuses on the establishment and maintenance of adopted Commonwealth data standards. This includes standards for data management, data storage, data exchange, information architecture, messaging and implementation guides. The EIA Data Standards Domain fosters semantic interoperability across the Commonwealth based on enterprise agreements on common data/attribute definitions, specifications and vocabularies for data/information assets. Under this Domain, the Commonwealth Data Governance Team is responsible for publishing and maintaining enterprise data standards in the EA Standards Repository.
+Benchmarks
+
+    Semantic interoperability across domains based on adopted enterprise standards 
+    Emphasis away from internal standards and toward external standards maintained by national/international Standard Development Organizations 
+    Standards reinforce strategies for data quality and integrity 
+    Compliance monitoring and tracking for enterprise standards 
+    Central standards repository with resources to support Agency capacity-building and compliance 
+
+Adopted standards are published and maintained in the Enterprise Standards Repository. 
+
+
+Enterprise Standards Repository
+
+The Enterprise Standards Repository details the data, data exchange, vocabulary and interoperability standards adopted under consideration or in development by the Commonwealth of Virginia. It contains external (e.g., national or industry) standards with corresponding implementation guides and specifications as well as internal Commonwealth standards. Each standard lists its applicability and version along with its corresponding implementation guides and specifications.
+
