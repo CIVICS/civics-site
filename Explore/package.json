@@ -1,0 +1,64 @@
+{
+  "name": "sortboard",
+  "description": "Easy sorting and filtering of elements.",
+  "version": "1.0.5",
+  "main": "src/sortboard.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quintana-dev/sortboard.git"
+  },
+  "author": {
+    "name": "José Luis Quintana",
+    "url": "http://quintana.io"
+  },
+  "keywords": [
+    "grid",
+    "sort",
+    "filter",
+    "sortlist",
+    "filterlist",
+    "responsive",
+    "jquery-plugin"
+  ],
+  "contributors": [
+    "José Luis Quintana <http://git.io/joseluisq>"
+  ],
+  "devDependencies": {
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-preset-es2015": "*",
+    "banr": "*",
+    "browser-sync": "*",
+    "gulp": "^3.9.0",
+    "gulp-babel": "*",
+    "gulp-header": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "jsdom": "*",
+    "tape": "*",
+    "xo": "*"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "serve": "`npm bin`/gulp serve",
+    "build": "`npm bin`/gulp build",
+    "test": "npm run build && babel-node test/test.js"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "xo": {
+    "space": true,
+    "esnext": true,
+    "envs": [
+      "browser",
+      "jquery",
+      "amd"
+    ]
+  }
+}
