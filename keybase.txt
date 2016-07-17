@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/civics
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://civics.com
+  * I am civics (https://keybase.io/civics) on keybase.
+  * I have a public key ASAFRkWZ0hBPy6i-SBiQIc39N7KNpCNUiXg8zmHkl1nW4Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010107c516be700fe0802db9c6cb51b609f4c8d3009f92f806a9db491eace91dd8aa0a",
+            "host": "keybase.io",
+            "kid": "012005464599d2104fcba8be48189021cdfd37b28da4235489783cce61e49759d6e10a",
+            "uid": "3c3eb2e269dded2f0bf4e646aab48019",
+            "username": "civics"
+        },
+        "service": {
+            "hostname": "civics.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1468792225,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1468792033,
+        "hash": "47e3b41b9cb3d335ba2dae006a223cc83cd8a2aa82fa105836d6eb6728ca94752cf567a95058e1d2286f8900b4b16f9972fb31914ec0b2bf1fd972ccc6ce7414",
+        "seqno": 528644
+    },
+    "prev": "0d043fabd7be100a7d7f81aa6c59e5146e67d1afef44290b94afaea8bb7a5492",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBUZFmdIQT8uovkgYkCHN/TeyjaQjVIl4PM5h5JdZ1uEKp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDdjNTE2YmU3MDBmZTA4MDJkYjljNmNiNTFiNjA5ZjRjOGQzMDA5ZjkyZjgwNmE5ZGI0OTFlYWNlOTFkZDhhYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDU0NjQ1OTlkMjEwNGZjYmE4YmU0ODE4OTAyMWNkZmQzN2IyOGRhNDIzNTQ4OTc4M2NjZTYxZTQ5NzU5ZDZlMTBhIiwidWlkIjoiM2MzZWIyZTI2OWRkZWQyZjBiZjRlNjQ2YWFiNDgwMTkiLCJ1c2VybmFtZSI6ImNpdmljcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY2l2aWNzLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0Njg3OTIyMjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2ODc5MjAzMywiaGFzaCI6IjQ3ZTNiNDFiOWNiM2QzMzViYTJkYWUwMDZhMjIzY2M4M2NkOGEyYWE4MmZhMTA1ODM2ZDZlYjY3MjhjYTk0NzUyY2Y1NjdhOTUwNThlMWQyMjg2Zjg5MDBiNGIxNmY5OTcyZmIzMTkxNGVjMGIyYmYxZmQ5NzJjY2M2Y2U3NDE0Iiwic2Vxbm8iOjUyODY0NH0sInByZXYiOiIwZDA0M2ZhYmQ3YmUxMDBhN2Q3ZjgxYWE2YzU5ZTUxNDZlNjdkMWFmZWY0NDI5MGI5NGFmYWVhOGJiN2E1NDkyIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RANQxy9gbzAp3DrE27HR4UcbaYKEJBKdn0Yx5ndiWEccDSYDd2LrympeQI0nAb6WHYaNst3dTqM2aL+LMQAfP0DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKpbYUWf1RWLWKRfV2q2wuQpzrJ2AmyE3965bMH4pUe7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/civics
+
+==================================================================
