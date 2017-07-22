@@ -2,6 +2,8 @@
 
 [https://docs.google.com/presentation/d/1OMFIM778SxYhOMcc-r59PQ4sTChUyYbJnc8XZ00kbHw/edit#slide=id.g24a73e7c89_9_6](https://docs.google.com/presentation/d/1OMFIM778SxYhOMcc-r59PQ4sTChUyYbJnc8XZ00kbHw/edit#slide=id.g24a73e7c89_9_6)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxIzZoDU2-QbN9sFBIAIMjTP4dxrextJcnaZsF6SRdjlCR92Eb-Fa2fUO9GE59DFqyi-rfx3oEbmCO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 * REGISTER: Sign Up with Capital One API allows you to access an OAuth 2.0 standard implementation for authorization, and use it to verify the identity of a user who is registering for your site.
 
