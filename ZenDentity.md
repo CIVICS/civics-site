@@ -3,8 +3,8 @@
 
 **Lunch Workshop**
 * Speaker: [Dazza Greenwood, JD](http://dazzagreenwood.com)
-* Date/Time: February 1st, Time TBD
-* Location: Hong Kong, Venue TBD
+* Date/Time: February 1st, 12:30 PM - 2:00 PM
+* Location:  Metta (21st floor California Tower LKF), Hong Kong
 * Sponsors: TBD
 
 Members of Massachusetts Legal Hackers and the law.MIT.edu research team have been pursuing a unique approach to blockchain based cryptographic signature rapid development. Rather than starting with the idea of building out some technology because it is cool and innovative or attempting to catch the wave of a specific business opportunity this prototype effort is starting with the assumption that the users have ended up in litigation and working backwards from that scenario. The idea is to test the legal sufficiency of blockchain based digital signatures for purposes of executing standard commercial contracts and also to explore whether the software implementation and manner of usage are likely to produce predictable legal results. By probing the jurisprudential event horizon in this way, we hope to reveal some combination of confirmation of our implementation path and probably also some unexpected hitches and snags along the way.
